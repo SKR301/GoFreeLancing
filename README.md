@@ -24,15 +24,15 @@ How to start the program:-
 ## Screenshots
 Some screenshots of the program:-
 - *Home*<br />
-  ![Home](https://github.com/SKR301/GoFreeLancing/tree/master/ScreenShots/home.png)
+  ![Home](https://github.com/SKR301/GoFreeLancing/blob/master/ScreenShots/home.png)
 - *Register*<br />
-  ![Register](https://github.com/SKR301/GoFreeLancing/tree/master/ScreenShots/signup.png)
+  ![Register](https://github.com/SKR301/GoFreeLancing/blob/master/ScreenShots/signup.png)
 - *Add a Job*<br />
-  ![Add a Job](https://github.com/SKR301/GoFreeLancing/tree/master/ScreenShots/add.png)
+  ![Add a Job](https://github.com/SKR301/GoFreeLancing/blob/master/ScreenShots/add.png)
 - *Edit Profile*<br />
-  ![Edit Profile](https://github.com/SKR301/GoFreeLancing/tree/master/ScreenShots/edit.png)
+  ![Edit Profile](https://github.com/SKR301/GoFreeLancing/blob/master/ScreenShots/edit.png)
 - *Search*<br />
-  ![Search](https://github.com/SKR301/GoFreeLancing/tree/master/ScreenShots/search.png)
+  ![Search](https://github.com/SKR301/GoFreeLancing/blob/master/ScreenShots/search.png)
 
 ## Contributors
 @SKR301- [Saurav Kumar](https://github.com/SKR301)
