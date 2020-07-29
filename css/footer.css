@@ -1,0 +1,13 @@
+hr
+{
+	background-color: #aaa;
+	height: 1px;
+}
+
+footer
+{
+	padding: 10px;
+	text-align: center;
+	background-color: #000;
+	color: #fff;
+}

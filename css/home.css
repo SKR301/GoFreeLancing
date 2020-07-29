@@ -1,0 +1,15 @@
+.text
+{
+	margin-top: 50px;
+	padding: 10px;
+	width:50%;
+}
+
+.img
+{
+	width:30%;
+	height:400px;
+	margin-right:150px;
+	margin-top:150px;
+	border-radius: 50px;
+}
